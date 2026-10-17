@@ -2,7 +2,7 @@
 
   <!-- Animated Typing Header -->
   <a href="https://satwik-9999.github.io/portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&height=55&lines=Hi%2C+I'm+Satwik+Paladugula+%F0%9F%91%8B;Building+with+AI%2C+Java+%26+SQL+%F0%9F%9A%80;ServiceNow+CAD+%26+CSA+Certified+%F0%9F%8F%86;Open+to+Internships+%26+Entry+Roles+%F0%9F%92%BC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=800&height=55&lines=Hi%2C+I'm+Satwik+Paladugula+%F0%9F%91%8B;Building+with+AI%2C+Java+%26+SQL+%F0%9F%9A%80;ServiceNow+CAD+%26+CSA+Certified+%F0%9F%8F%86;Open+to+Internships+%26+Entry+Roles+%F0%9F%92%BC" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -15,7 +15,7 @@
   <!-- Badges -->
   <p>
     <a href="https://satwik-9999.github.io/portfolio/">
-      <img src="https://img.shields.io/badge/🌐 Portfolio-06B6D4?style=for-the-badge&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/satwik-paladugula-7916572bb/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -24,11 +24,9 @@
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://satwik-9999.github.io/portfolio/resume.pdf">
-      <img src="https://img.shields.io/badge/📄 Resume-2563EB?style=for-the-badge&logoColor=white" alt="Resume" />
+      <img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
     </a>
   </p>
-
-  <img src="https://komarev.com/ghpvc/?username=satwik-9999&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
